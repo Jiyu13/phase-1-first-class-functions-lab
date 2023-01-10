@@ -15,5 +15,6 @@ function createFareMultiplier(intNum) {
     }
 }
 
-// const func
-const fareDoubler = createFareMultiplier(2)
+const fareDoubler = createFareMultiplier(2);
+
+const fareTripler = createFareMultiplier(3);
