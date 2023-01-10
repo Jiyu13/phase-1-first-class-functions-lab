@@ -14,3 +14,6 @@ function createFareMultiplier(intNum) {
         return intNum * fare;
     }
 }
+
+// const func
+const fareDoubler = createFareMultiplier(2)
